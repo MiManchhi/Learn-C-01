@@ -13,7 +13,8 @@ void test01(int a,int = 10)
 {
 	cout << a << endl;
 }
-int main()
+
+int main004()
 {
 	test01(10);
 	system("pause");
