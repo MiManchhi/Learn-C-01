@@ -133,6 +133,7 @@
     <ClCompile Include="封装的意义.cpp" />
     <ClCompile Include="封装的权限控制.cpp" />
     <ClCompile Include="成员属性设置为私有.cpp" />
+    <ClCompile Include="点和圆的关系.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

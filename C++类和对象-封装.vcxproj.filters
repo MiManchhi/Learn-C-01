@@ -33,5 +33,8 @@
     <ClCompile Include="封装案例-点和圆的关系.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="点和圆的关系.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
